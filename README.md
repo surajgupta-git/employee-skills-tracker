@@ -4,9 +4,9 @@ Spring Boot
 
 SpringData JPA (Hibernate)
 
-Maven 
+Maven
 
-Embedded Tomcat
+Embedded Tomcat server
 
 MySQL Database
 
@@ -17,7 +17,7 @@ React JS Library
 
 Modern JavaScript (ES6)
 
-Bootstrap 4.5 and Axios HTTP Library
+Bootstrap Framework for CSS and Axios HTTP Library
 
 ### Run command 
 1. npm install

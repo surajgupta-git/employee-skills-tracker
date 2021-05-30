@@ -6,8 +6,6 @@ SpringData JPA (Hibernate)
 
 Maven 
 
-JDK
-
 Embedded Tomcat
 
 MySQL Database
@@ -15,15 +13,9 @@ MySQL Database
 ### Run the spring boot application on locahost:8081
 
 ## Client-side tools and technologies used
-React
+React JS Library
 
 Modern JavaScript (ES6)
-
-NodeJS and NPM
-
-VS Code IDE
-
-Create React App CLI
 
 Bootstrap 4.5 and Axios HTTP Library
 
